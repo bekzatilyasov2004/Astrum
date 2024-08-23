@@ -13,7 +13,7 @@ function Drawers() {
   const getActiveLinkStyle = ({ isActive }) => ({
     fontWeight: 'bold',
     fontSize: '30px',
-    color: isActive ? '#00E8AF' : 'black', 
+    color: isActive ? '#5532ce' : 'black', 
     textDecoration: 'none'
   });
 
