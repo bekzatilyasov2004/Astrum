@@ -32,7 +32,7 @@ const Teams = () => {
   };
 
   return (
-    <Box w={'100%'} h={'650px'} mt={{base: '5px',md: '20px'} >
+    <Box w={'100%'} h={'650px'} mt={{base: '5px',md: '20px'} mb={{base: '5px',md: '20px'} >
       <Box w="100%" >
         <Box p={5}  textAlign={{ base: 'center', md: 'start' }}>
           <Text fontWeight={700} fontSize={{ base: '26px', md: '48px' }}>
