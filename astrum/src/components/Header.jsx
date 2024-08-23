@@ -10,7 +10,7 @@ const Header = () => {
     const getActiveLinkStyle = ({ isActive }) => ({
         fontWeight: 'bold',
         fontSize: '14px',
-        color: isActive ? '#00E8AF' : 'black',
+        color: isActive ? '#5532ce' : 'black',
         textDecoration: 'none'
     });
     return (
