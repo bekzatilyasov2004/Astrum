@@ -62,7 +62,7 @@ const Header = () => {
                 display={{ base: 'none', md: 'block' }}
                 variant="outline"
                 colorScheme="purple"
-                borderColor="purple.500"
+                borderColor="#5532ce"
                 borderWidth="2px"
                 fontSize="md"
                 fontWeight="bold"
